@@ -22,19 +22,9 @@ Pastikan Anda telah menginstal:
 ## 2. Install Laravel via Composer
 
 ```bash
-composer create-project laravel/laravel my-project
-cd my-project
+git clone ......
+composer install
 ```
-
-Atau jika menggunakan Laravel Installer:
-
-```bash
-composer global require laravel/installer
-laravel new my-project
-cd my-project
-```
-
----
 
 ## 3. Konfigurasi Environment
 
