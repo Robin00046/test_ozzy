@@ -71,7 +71,7 @@ php artisan serve
 
 Akses aplikasi di browser: [http://localhost:8000](http://localhost:8000)
 
-## 6. Migrasi Database
+## 5. Migrasi Database
 
 Jalankan migrasi untuk membuat tabel default Laravel:
 
